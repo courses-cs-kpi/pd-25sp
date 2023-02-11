@@ -6,7 +6,8 @@ website: https://ykochura.github.io/
 photo: ykochura.jpg
 pronouns: лекції/практики
 department: обчислювальної техніки
-lectures: середа та четвер о 12:20, онлайн
+lectures: за розкладом, онлайн
+site: http://roz.kpi.ua/
 ---
 
 [BBB Link](https://bbb.comsys.kpi.ua/b/yur-ujl-jyp-qmp){: .btn .btn-outline }
