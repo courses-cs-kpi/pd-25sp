@@ -24,6 +24,9 @@ title: Вступ та огляд курсу
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
+: **ПР #1**{: .label .label-purple} [**Практична робота #1**](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)
+  : Дедлайн: 12 березня
+
 
 
 06 бер
