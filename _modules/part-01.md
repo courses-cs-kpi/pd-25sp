@@ -18,7 +18,8 @@ title: Вступ та огляд курсу
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)]
 
-
+: **Книги 📚**{: .label .label-red}**Для читання**
+  : PMPP Ch. 2, pp. 19-41 
 
 27 лют
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
