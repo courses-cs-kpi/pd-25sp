@@ -36,7 +36,7 @@ title: Вступ та огляд курсу
 : **Книги 📚**{: .label .label-red}**Для читання**
   : PMPP Ch. 3, pp. 43-69
 
-: **ПР #2**{: .label .label-purple} [**Практична робота #1**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
+: **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
 
 20 бер
