@@ -40,7 +40,7 @@ title: Вступ та огляд курсу
   : Дедлайн: 27 березня
 
 
-  27 бер
+27 бер
 : **Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
   : 
 
