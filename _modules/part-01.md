@@ -29,7 +29,7 @@ title: Вступ та огляд курсу
   : Дедлайн: 12 березня
 
 
-13 бер
+13-20 бер
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
@@ -39,6 +39,16 @@ title: Вступ та огляд курсу
 : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
 
-20 бер
+
+  27 бер
+: **Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+  : 
+
+3 кві
 : **Лекція 5**{: .label .label-green } **Очікується**
+  : 
+
+
+10 кві
+: **Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
   : 
