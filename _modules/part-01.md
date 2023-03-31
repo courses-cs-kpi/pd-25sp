@@ -45,8 +45,8 @@ title: Вступ та огляд курсу
   : 
 
 3 кві
-: **Лекція 5**{: .label .label-green } **Очікується**
-  : 
+: **Лекція 5**{: .label .label-green } **Пам'ять та місце зберігання даних**
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture5.pdf)]
 
 
 10 кві
