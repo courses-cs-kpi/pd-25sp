@@ -52,3 +52,8 @@ title: Вступ та огляд курсу
 10 кві
 : **Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
   : 
+
+
+24 кві
+: **Лекція 6**{: .label .label-green } **Очікується**
+  : 
