@@ -56,7 +56,7 @@ title: Вступ та огляд курсу
 
 24 кві
 : **Лекція 6**{: .label .label-green } **Навчання моделей на кількох GPU**
-  : 
+  : [[ipynb](https://www.kaggle.com/code/kyuriy/multigpu-with-tensorflow-and-keras)]
 
 
 01 тра
