@@ -61,7 +61,9 @@ title: Вступ та огляд курсу
 
 01 тра
 : **Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
-  : 
+  :
+: **ПР #3**{: .label .label-purple} [**Практична робота #3**](https://ykochura.github.io/ac-kpi/labs/lab3.pdf)
+  : Дедлайн: 05 травня 
 
 08 тра
 : **Лекція 7**{: .label .label-green } **Очікується**
