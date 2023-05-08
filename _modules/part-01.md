@@ -66,5 +66,10 @@ title: Вступ та огляд курсу
   : Дедлайн: 05 травня 
 
 08 тра
-: **Лекція 7**{: .label .label-green } **Очікується**
-  : 
+: **Лекція 7**{: .label .label-green } **Розподілене навчання**
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
+
+
+15 тра
+: **Лекція 8**{: .label .label-green } **Очікується**
+  :
