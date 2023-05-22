@@ -73,8 +73,10 @@ title: Вступ та огляд курсу
 15 тра
 : **Лекція 8**{: .label .label-green } **Контрольна**
 
+22 тра
+: **ПР #4**{: .label .label-purple} [**Практична робота #3**](https://ykochura.github.io/ac-kpi/labs/lab4.pdf)
+  : Дедлайн: 29 травня 
 
-
-X
+05 чер
 : **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
   :
