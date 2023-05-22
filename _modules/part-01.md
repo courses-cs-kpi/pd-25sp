@@ -74,7 +74,7 @@ title: Вступ та огляд курсу
 : **Лекція 8**{: .label .label-green } **Контрольна**
 
 22 тра
-: **ПР #4**{: .label .label-purple} [**Практична робота #3**](https://ykochura.github.io/ac-kpi/labs/lab4.pdf)
+: **ПР #4**{: .label .label-purple} [**Практична робота #4**](https://ykochura.github.io/ac-kpi/labs/lab4.pdf)
   : Дедлайн: 29 травня 
 
 05 чер
