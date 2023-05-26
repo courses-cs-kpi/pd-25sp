@@ -77,4 +77,4 @@ title: Вступ та огляд курсу
   : Дедлайн: 29 травня 
 
 05 чер
-**Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
