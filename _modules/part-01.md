@@ -14,7 +14,7 @@ title: Вступ та огляд курсу
 
 
 
-20 лют
+<!-- 20 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)]
 
@@ -77,4 +77,4 @@ title: Вступ та огляд курсу
   : Дедлайн: 29 травня 
 
 05 чер
-: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf) -->

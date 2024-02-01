@@ -1,13 +1,13 @@
 ---
-name: Юрій Кочура
+name: Юрій Петрович Кочура
 role: Instructor
 email: iuriy.kochura@gmail.com
 website: https://ykochura.github.io/
 photo: ykochura.jpg
 pronouns: лекції/практики
 department: обчислювальної техніки
-lectures: за розкладом, онлайн
+lectures: онлайн
 site: http://roz.kpi.ua/
 ---
 
-[BBB Link](https://bbb.comsys.kpi.ua/b/yur-ujl-jyp-qmp){: .btn .btn-outline }
+[BBB кімната](https://bbb.comsys.kpi.ua/b/yur-ujl-jyp-qmp){: .btn .btn-outline }
