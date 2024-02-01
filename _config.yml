@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
 aux_links_new_tab: true
-footer_content: 'Юрій Кочура &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Юрій Кочура &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:
