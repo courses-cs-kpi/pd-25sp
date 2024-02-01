@@ -67,10 +67,10 @@ defaults:
     values:
       layout: page
 # Configure collections for Just the Docs
-just_the_docs:
-  collections:
-    lessons:
-      name: Нотатки лекцій
+# just_the_docs:
+#   collections:
+#     lessons:
+#       name: Нотатки лекцій
 
 compress_html:
   clippings: all

@@ -26,7 +26,7 @@ nav_order: 1
 - Знання англiйської: можливiсть зрозумiти основний змiст поставленого завдання.
 
 Підручники
-: 1. David Kirk and Wen-mei W. Hwu (2017). [*Programming massively parallel processors: a hands-on approach*, 3rd Edition](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0128119861/ref=sr_1_fkmr0_2?crid=2YR2Y8FMYMZRB&keywords=Programming+Massively+Parallel+Processors%3A+A+Hands-on+Approach+3rd+Edition&qid=1643962972&s=books&sprefix=programming+massively+parallel+processors+a+hands-on+approach+3rd+edition+%2Cstripbooks-intl-ship%2C171&sr=1-2-fkmr0).
+: 1.  Wen-mei W. Hwu, David B. Kirk and Izzat El Hajj (2022). [*Programming massively parallel processors: a hands-on approach*, 4th Edition](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311/ref=dp_ob_title_bk).
 
 : 2. Robert (Bob) Robey and  Yuliana (Yulie) Zamora (2021). [*Parallel and High Performance Computing*](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1/69).
 

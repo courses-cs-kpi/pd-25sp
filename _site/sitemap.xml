@@ -2,24 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/pd-24sp/intro/</loc>
-<lastmod>2024-02-01T10:40:40+02:00</lastmod>
+<lastmod>2024-02-01T11:55:05+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pd-24sp/intro/lec01/</loc>
-<lastmod>2024-02-01T10:40:40+02:00</lastmod>
+<lastmod>2024-02-01T11:55:05+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pd-24sp/intro/welcome/</loc>
-<lastmod>2024-02-01T10:40:40+02:00</lastmod>
+<lastmod>2024-02-01T11:55:05+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pd-24sp/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pd-24sp/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/pd-24sp/seminar/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/pd-24sp/staff/</loc>
