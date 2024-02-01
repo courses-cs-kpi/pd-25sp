@@ -12,3 +12,11 @@ nav_order: 0
 : 
 - З’ясувати основнi вiдмiнностi мiж латентними пристроями (ядра CPU) та пропускними пристроями (ядра GPU).
 - Зрозумiти, чому найкращi програми-переможцi все частiше використовують пристрої обох типiв.
+
+<!-- ```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+``` -->
