@@ -2,7 +2,7 @@
 title: Вступ та огляд курсу
 ---
 
-13 лют
+12 лют
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)]
 
