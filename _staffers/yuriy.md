@@ -10,4 +10,4 @@ lectures: онлайн
 site: http://roz.kpi.ua/
 ---
 
-[BBB кімната](https://bbb.comsys.kpi.ua/b/yur-ujl-jyp-qmp){: .btn .btn-outline }
+[BBB кімната](https://bbb.comsys.kpi.ua/rooms/yur-ujl-jyp-qmp/join){: .btn .btn-outline }
