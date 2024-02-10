@@ -27,9 +27,7 @@ nav_order: 1
 
 Підручники
 : 1.  Wen-mei W. Hwu, David B. Kirk and Izzat El Hajj (2022). [*Programming massively parallel processors: a hands-on approach*, 4th Edition](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands-dp-0323912311/dp/0323912311/ref=dp_ob_title_bk).
-
 1. Robert (Bob) Robey and  Yuliana (Yulie) Zamora (2021). [*Parallel and High Performance Computing*](https://livebook.manning.com/book/parallel-and-high-performance-computing/chapter-1/69).
-
 1. Кочура Ю. П. (2024). [*Гетерогеннi паралельнi
 обчислення*](https://github.com/hpc-book/hpc/releases/download/v0.1.0/main.pdf).
 
