@@ -9,7 +9,7 @@ title: Вступ та огляд курсу
 : **Лекція 1**{: .label .label-green } **Вступ**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)]
 
-: **Книги 📚**{: .label .label-red}**Для читання**
+: **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34
 
 
@@ -18,7 +18,7 @@ title: Вступ та огляд курсу
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)]
 
-: **Книги 📚**{: .label .label-red}**Для читання**
+: **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 2, pp. 23-46 
 
 <!-- 27 лют
