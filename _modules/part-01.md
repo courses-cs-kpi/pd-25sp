@@ -14,14 +14,14 @@ title: Вступ та огляд курсу
 
 
 
-<!-- 20 лют
+22 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)]
 
 : **Книги 📚**{: .label .label-red}**Для читання**
-  : PMPP Ch. 2, pp. 19-41 
+  : PMPP Ch. 2, pp. 23-46 
 
-27 лют
+<!-- 27 лют
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
@@ -77,4 +77,5 @@ title: Вступ та огляд курсу
   : Дедлайн: 29 травня 
 
 05 чер
-: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf) -->
+: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+ -->
