@@ -23,8 +23,8 @@ title: Вступ та огляд курсу
 
 28 лют
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
-  [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод]()]
-  : Дедлайн: 16 березня
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод]()]
+: Дедлайн: 16 березня
 
 <!-- 27 лют
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
