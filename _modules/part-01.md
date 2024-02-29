@@ -16,14 +16,14 @@ title: Вступ та огляд курсу
 
 22 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] [[VIDEO](https://youtu.be/tA8t8Z9_2S0)]
 
 : **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 2, pp. 23-46 
 
 28 лют
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод]()]
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
 : Дедлайн: 16 березня
 
 <!-- 27 лют
