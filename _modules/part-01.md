@@ -4,10 +4,10 @@ title: Вступ та огляд курсу
 
 12 лют
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] [[VIDEO](https://youtu.be/PtYHw-2f0ow)]
 
 : **Лекція 1**{: .label .label-green } **Вступ**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] [[VIDEO](https://youtu.be/aO1ezluHy5g)]
 
 : **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34
