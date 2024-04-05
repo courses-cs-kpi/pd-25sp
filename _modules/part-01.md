@@ -26,24 +26,21 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
 : Дедлайн: 16 березня
 
-#### Очікується запис
+<!-- #### Очікується запис -->
 
 04 бер
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
-<!-- : **ПР #1**{: .label .label-purple} [**Практична робота #1**](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)
-  : Дедлайн: 12 березня
 
-
-13-20 бер
+05 кві
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
 : **Книги 📚**{: .label .label-red}**Для читання**
   : PMPP Ch. 3, pp. 43-69
 
-: **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
+<!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
 
 
@@ -84,5 +81,4 @@ title: Вступ та огляд курсу
   : Дедлайн: 29 травня 
 
 05 чер
-: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
- -->
+: **Лекція-Семінар**{: .label .label-yellow} [**Теми для підготовки до семінару**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf) -->
