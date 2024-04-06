@@ -4,22 +4,22 @@ title: Вступ та огляд курсу
 
 12 лют
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] [[VIDEO](https://youtu.be/PtYHw-2f0ow)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] [[ВІДЕО](https://youtu.be/PtYHw-2f0ow)]
 
 : **Лекція 1**{: .label .label-green } **Вступ**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] [[VIDEO](https://youtu.be/aO1ezluHy5g)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/aO1ezluHy5g)]
 
-: **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
-  : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 <br> [[ВІДЕО](https://www.youtube.com/watch?v=4APkMJdiudU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe)]
 
 
 
 22 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] [[VIDEO](https://youtu.be/tA8t8Z9_2S0)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/tA8t8Z9_2S0)]
 
-: **Книги 📚**{: .label .label-red}**Для додаткового ознайомлення**
-  : PMPP Ch. 2, pp. 23-46 
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : PMPP Ch. 2, pp. 23-46 <br> [[ВІДЕО](https://www.youtube.com/watch?v=cRY5utouJzQ&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=4)]
 
 28 лют
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
@@ -30,13 +30,16 @@ title: Вступ та огляд курсу
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[ВІДЕО](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
+
 
 05 кві
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
-: **Книги 📚**{: .label .label-red}**Для читання**
-  : PMPP Ch. 3, pp. 43-69
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : PMPP Ch. 3, pp. 43-69 <br> [[ВІДЕО](https://www.youtube.com/watch?v=KVOc6369-Lo)]
 
 <!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
