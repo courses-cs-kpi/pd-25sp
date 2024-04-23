@@ -41,6 +41,11 @@ title: Вступ та огляд курсу
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 3, pp. 43-69 <br> [[ВІДЕО](https://www.youtube.com/watch?v=KVOc6369-Lo)]
 
+23 кві
+: **ПР #2**{: .label .label-purple} **Конкурентні потоки**
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
+: Дедлайн: 5 травня
+
 <!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
 
