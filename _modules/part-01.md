@@ -48,7 +48,8 @@ title: Вступ та огляд курсу
 
 
 17 тра
-: **Залiк/екзамен**{: .label .label-yellow} [**Перелік тем для виступу**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+: **Залiк/екзамен**{: .label .label-yellow} **Перелік тем для виступу**
+  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
 
 <!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
