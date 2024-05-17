@@ -46,6 +46,10 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
 : Дедлайн: 5 травня
 
+
+17 тра
+: **Залiк/екзамен**{: .label .label-yellow} [**Перелік тем для виступу**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+
 <!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
 
