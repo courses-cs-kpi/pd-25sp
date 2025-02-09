@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/pd-24sp/sitemap.xml
+Sitemap: http://localhost:4000/pd-25sp/sitemap.xml

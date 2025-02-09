@@ -77,7 +77,7 @@ function disableHeadStyleSheets() {
 
 function initSearch() {
   var request = new XMLHttpRequest();
-  request.open('GET', '/pd-24sp/assets/js/search-data.json', true);
+  request.open('GET', '/pd-25sp/assets/js/search-data.json', true);
 
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
@@ -456,7 +456,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '/pd-24sp/assets/css/just-the-docs-' + theme + '.css');
+  cssFile.setAttribute('href', '/pd-25sp/assets/css/just-the-docs-' + theme + '.css');
 }
 
 // Note: pathname can have a trailing slash on a local jekyll server
@@ -519,10 +519,12 @@ function activateNav() {
 // Document ready
 
 jtd.onReady(function(){
-  initNav();
+  if (document.getElementById('site-nav')) {
+    initNav();
+    activateNav();
+    scrollNav();
+  }
   initSearch();
-  activateNav();
-  scrollNav();
 });
 
 // Copy button on code

@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Головна
-tagline: Технології графічного процесінгу & розподілених обчислень
-description: КПІ ім. Ігоря Сікорського - Весна, 2024
+tagline: Технології графічного процесінгу
+description: КПІ ім. Ігоря Сікорського - Весна, 2025
 author: Юрій Кочура
-baseurl: '/pd-24sp' # the subpath of your site, e.g. /blog
+baseurl: '/pd-25sp' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
 aux_links_new_tab: true
-footer_content: 'Юрій Кочура &copy; 2024 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Юрій Кочура &copy; 2025 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 # Collections for website data
 collections:
