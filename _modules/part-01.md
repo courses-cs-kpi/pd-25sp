@@ -2,19 +2,19 @@
 title: Вступ та огляд курсу
 ---
 
-12 лют
+10 лют
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] [[ВІДЕО](https://youtu.be/PtYHw-2f0ow)]
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=course-details.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/course-details.pdf)] 
 
 : **Лекція 1**{: .label .label-green } **Вступ**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] [[ВІДЕО](https://youtu.be/aO1ezluHy5g)]
+   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)] <!--[[ВІДЕО](https://youtu.be/aO1ezluHy5g)] -->
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 1, pp. 1-18 <br> PHPC Ch. 1, pp. 1-34 <br> [[ВІДЕО](https://www.youtube.com/watch?v=4APkMJdiudU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe)]
 
 
 
-22 лют
+<!-- 22 лют
 : **Лекція 2**{: .label .label-green } **Вступ до CUDA C I**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] [[ВІДЕО](https://youtu.be/tA8t8Z9_2S0)]
 
@@ -49,7 +49,11 @@ title: Вступ та огляд курсу
 
 17 тра
 : **Залiк/екзамен**{: .label .label-yellow} **Перелік тем для виступу**
-  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
+  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)] -->
+
+
+
+
 
 <!-- : **ПР #2**{: .label .label-purple} [**Практична робота #2**](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)
   : Дедлайн: 27 березня
