@@ -20,8 +20,7 @@ title: Вступ та огляд курсу
    : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture2.pdf)] <!--[[ВІДЕО](https://youtu.be/tA8t8Z9_2S0)] -->
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : PMPP Ch. 2, pp. 23-46 <br> [[ВІДЕО](https://www.youtube.com/watch?v=cRY5utouJzQ&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=4)]
-  : [[High Level Concepts](https://www.youtube.com/watch?v=4APkMJdiudU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=1)] <br> [[Programming Model](https://www.youtube.com/watch?v=cKI20rITSvo&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=2)]
+  : PMPP Ch. 2, pp. 23-46  <br> [[High Level Concepts](https://www.youtube.com/watch?v=4APkMJdiudU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=1)] <br> [[Programming Model](https://www.youtube.com/watch?v=cKI20rITSvo&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=2)] <br> [[Indexing Threads](https://www.youtube.com/watch?v=cRY5utouJzQ&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=4)]
 
 <!-- 28 лют
 : **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
