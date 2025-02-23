@@ -22,20 +22,20 @@ title: Вступ та огляд курсу
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 2, pp. 23-46   <br> [[Programming Model](https://www.youtube.com/watch?v=cKI20rITSvo&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=2)] <br> [[Parallelizing a For-Loop](https://youtu.be/BSzoEXqP9aU?si=LtsS_zEJvk7LgSpX)] <br> [[Indexing Threads](https://www.youtube.com/watch?v=cRY5utouJzQ&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=4)] <br> [[An Even Easier Introduction to CUDA](https://colab.research.google.com/github/NVDLI/notebooks/blob/master/even-easier-cuda/An_Even_Easier_Introduction_to_CUDA.ipynb)]
 
-<!-- 28 лют
-: **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
-: Дедлайн: 16 березня
 
 04 бер
 : **Лекція 3**{: .label .label-green } **Вступ до CUDA C II**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture3.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[ВІДЕО](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
+  : [[Parallelizing a For-Loop](https://www.youtube.com/watch?v=BSzoEXqP9aU&list=PLC6u37oFvF40BAm7gwVP7uDdzmW83yHPe&index=3)]
+
+: **ПР #1**{: .label .label-purple} **Прискорені обчислення з CUDA C/C++**
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
+  : **Дедлайн**:  02 березня
 
 
-05 кві
+<!-- 05 кві
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
