@@ -34,15 +34,17 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab1.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
   : **Дедлайн**:  08 березня
 
-
-<!-- 05 кві
+10 бер
 : **Лекція 4**{: .label .label-green } **Моделі паралелізму**
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture4.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : PMPP Ch. 3, pp. 43-69 <br> [[ВІДЕО](https://www.youtube.com/watch?v=KVOc6369-Lo)]
 
-23 кві
+
+
+
+<!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
 : Дедлайн: 5 травня
