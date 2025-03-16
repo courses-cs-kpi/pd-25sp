@@ -46,7 +46,7 @@ title: Вступ та огляд курсу
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture5.pdf)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[What is Shared Memory?](https://modal.com/gpu-glossary/device-software/shared-memory)]
+  : [[Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)] <br> [[What is Shared Memory?](https://modal.com/gpu-glossary/device-software/shared-memory)]
 
 
 <!-- 23 кві
