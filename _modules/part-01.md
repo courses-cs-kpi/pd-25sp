@@ -49,7 +49,7 @@ title: Вступ та огляд курсу
   : [[Exploring GPU Architecture](https://www.youtube.com/watch?v=h9Z4oGN89MU)] <br> [[What is Shared Memory?](https://modal.com/gpu-glossary/device-software/shared-memory)]
 
 : **ПР #2**{: .label .label-purple} **Керування пам’яттю в CUDA**
-  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/15onEupf3JuFkJ7sPxW8kFv4aSDKhlQU47KqX6_v8oyU/edit?usp=sharing)]
+  : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] <br>
   : **Дедлайн**:  31 березня
 
 
