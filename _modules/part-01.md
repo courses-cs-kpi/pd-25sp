@@ -52,6 +52,10 @@ title: Вступ та огляд курсу
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)]     ▪️
   : **Дедлайн**:  31 березня
 
+31 бер
+: **Лекція 6**{: .label .label-green } **Навчання моделей на кількох GPU**
+  : [[ipynb](https://www.kaggle.com/kyuriy/multigpu)]
+
 
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**
@@ -83,9 +87,7 @@ title: Вступ та огляд курсу
   : 
 
 
-24 кві
-: **Лекція 6**{: .label .label-green } **Навчання моделей на кількох GPU**
-  : [[ipynb](https://www.kaggle.com/kyuriy/multigpu)]
+
 
 
 01 тра
