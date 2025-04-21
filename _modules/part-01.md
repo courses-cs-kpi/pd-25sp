@@ -57,6 +57,11 @@ title: Вступ та огляд курсу
   : [[ipynb](https://www.kaggle.com/kyuriy/multigpu)]
 
 
+21 кві
+: **Лекція 7**{: .label .label-green } **Розподілене навчання**
+  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
+
+
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
@@ -95,9 +100,7 @@ title: Вступ та огляд курсу
 : **ПР #3**{: .label .label-purple} [**Практична робота #3**](https://ykochura.github.io/ac-kpi/labs/lab3.pdf)
   : Дедлайн: 05 травня 
 
-08 тра
-: **Лекція 7**{: .label .label-green } **Розподілене навчання**
-  : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
+
 
 
 15 тра
