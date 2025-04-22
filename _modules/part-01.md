@@ -63,8 +63,8 @@ title: Вступ та огляд курсу
 
 
 22 кві
-: **Семінар**{: .label .label-yellow} [**Теми на семінар**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
-  : 
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)]
 
 
 <!-- 23 кві
