@@ -62,6 +62,11 @@ title: Вступ та огляд курсу
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture7.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture7.pdf)]
 
 
+22 кві
+: **Семінар**{: .label .label-yellow} [**Теми на семінар**](https://ykochura.github.io/ac-kpi/seminar/topics.pdf)
+  : 
+
+
 <!-- 23 кві
 : **ПР #2**{: .label .label-purple} **Конкурентні потоки**
   : [[Деталі](https://ykochura.github.io/ac-kpi/labs/lab2.pdf)] [[Промокод](https://docs.google.com/document/d/1ryEPT1E7x4uRenZ9cFn2M82HgEZM9J_bwcn85BgrdGU/edit?usp=sharing)]
